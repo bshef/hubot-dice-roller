@@ -1,0 +1,29 @@
+{
+  "name": "hubot-dice-roller",
+  "version": "1.0.0",
+  "description": "Hubot script that rolls dice",
+  "main": "index.coffee",
+  "author": "Brian Shef <brianshef@gmail.com> (https://github.com/bshef)",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "dice",
+	"roller"
+  ],
+  "license": "Public Domain",
+  "scripts": {
+  },
+  "homepage": "https://github.com/bshef/hubot-dice-roller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bshef/hubot-dice-roller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bshef/hubot-dice-roller/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.9.0"
+  },
+  "devDependencies": {
+  }
+}
